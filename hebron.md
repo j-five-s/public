@@ -19,4 +19,4 @@
 
 ## Links:
 [Як вигллядатиме менторство](https://github.com/j-five-s/public/blob/main/mentoring.md)</br>
-[Тестові завдання](https://github.com/j-five-s/public/tree/main/tasks)
+[Тестові завдання](https://github.com/j-five-s/public/blob/main/tasks/index.md)
