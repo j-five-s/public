@@ -78,7 +78,8 @@
 Якщо виконати всі не вийде в термін, всеодно киньте, я провірю</br>
 
 ## Links:
-[Тестові завдання](https://github.com/j-five-s/public/tree/main/tasks)
+[Тестові завдання](https://github.com/j-five-s/public/blob/main/tasks/index.md)
+
 
 
 
