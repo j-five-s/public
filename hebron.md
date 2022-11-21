@@ -17,5 +17,5 @@
 
 Зараз я senior full stack в intellias</br>
 
-
-
+## Links:
+[Як вигллядатиме менторство](https://github.com/j-five-s/public/blob/main/mentoring.md)
